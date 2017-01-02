@@ -1,0 +1,23 @@
+a {
+  color: #0d85be;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+}
+a:hover,
+a.active {
+  color: #0d85be;
+}
+.btn.btn-primary {
+  background-color: #0d85be;
+  border-color: #0d85be;
+}
+.btn.btn-primary:hover {
+  background-color: #0d85be;
+  border-color: #0d85be;
+}
+.btn.btn-slider {
+  height: 5rem;
+  line-height: 5rem;
+  padding: 0 6rem;
+  font-size: 2.4rem;
+}
